@@ -9,3 +9,4 @@ BLEACH 死神 千年血戰篇-相剋譚 => {[tmdbid=30984;type=tv;s=2;]}
 FAIRY TAIL 魔導少年 百年任務 => {[tmdbid=248947;type=tv;s=1;]}
 刀剑神域外传 => {[tmdbid=78204;type=tv;s=1;]}
 变形金刚：猛兽侠 => Beast Wars Return
+留校联盟 => {[tmdbid=840430;type=movie;]}
