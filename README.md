@@ -1,3 +1,5 @@
+ => {[tmdbid=;type=movie;]}
+ => {[tmdbid=;type=tv;s=1;]}
 境界的彼方 剧场版 未来篇 => Kyoukai no Kanata I'll Be Here Mirai Hen
 境界的彼方 剧场版 过去篇 => Kyoukai no Kanata I'll Be Here Kako Hen
 护士 => {[tmdbid=25491;type=movie;]}
@@ -10,3 +12,5 @@ FAIRY TAIL 魔導少年 百年任務 => {[tmdbid=248947;type=tv;s=1;]}
 刀剑神域外传 => {[tmdbid=78204;type=tv;s=1;]}
 变形金刚：猛兽侠 => Beast Wars Return
 留校联盟 => {[tmdbid=840430;type=movie;]}
+X圣治 => {[tmdbid=36095;type=movie;]}
+大撒把 (1992) => {[tmdbid=296147;type=movie;]}
