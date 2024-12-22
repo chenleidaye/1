@@ -1,5 +1,3 @@
- => {[tmdbid=;type=movie;]}
- => {[tmdbid=;type=tv;s=1;]}
 境界的彼方 剧场版 未来篇 => Kyoukai no Kanata I'll Be Here Mirai Hen
 境界的彼方 剧场版 过去篇 => Kyoukai no Kanata I'll Be Here Kako Hen
 护士 => {[tmdbid=25491;type=movie;]}
