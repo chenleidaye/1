@@ -13,4 +13,4 @@ FAIRY TAIL 魔導少年 百年任務 => {[tmdbid=248947;type=tv;s=1;]}
 变形金刚：猛兽侠 => Beast Wars Return
 留校联盟 => {[tmdbid=840430;type=movie;]}
 X圣治 => {[tmdbid=36095;type=movie;]}
-大撒把 (1992) => {[tmdbid=296147;type=movie;]}
+大撒把 => {[tmdbid=296147;type=movie;]}
