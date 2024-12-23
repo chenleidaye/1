@@ -1,5 +1,4 @@
 
-#========以下识别词由 RemoteIdentifiers 插件添加========#
 境界的彼方 剧场版 未来篇 => Kyoukai no Kanata I'll Be Here Mirai Hen
 境界的彼方 剧场版 过去篇 => Kyoukai no Kanata I'll Be Here Kako Hen
 护士 => {[tmdbid=25491;type=movie;]}
@@ -20,7 +19,7 @@ Inside.Out.2015 => {[tmdbid=150540;type=movie;]}
 Oppenheimer => {[tmdbid=872585;type=movie;]}
 假面骑士Wizard  in Magic Land => {[tmdbid=266037;type=movie;]}
 MomentofRomanceAKATinjoekyauching => {[tmdbid=81128;type=movie;]}
-Coco.2017 => {[tmdbid=354912;type=movie;]}
+Coco => {[tmdbid=354912;type=movie;]}
 听见颜色的女孩 => {[tmdbid=971606;type=movie;]}
 Tron.Legacy.2010 => {[tmdbid=20526;type=movie;]}
 悬崖之上 => {[tmdbid=639557;type=movie;]}
@@ -37,5 +36,10 @@ The.ButterflyEffect.2004 => {[tmdbid=1954;type=movie;]}
 少年骇客 => {[tmdbid=4686;type=tv;]}
 少年骇客：外星英雄 (2008) => {[tmdbid=6040;type=tv;]}
 大话西游之仙履奇缘 => {[tmdbid=21835;type=movie;]}
+Sword Art Online Alicization War of Underworld  => {[tmdbid=45782;type=tv;s=4;]}
+Sword Art Online Alicization  => {[tmdbid=45782;type=tv;s=3;]}
+the.legend.of.hei => {[tmdbid=620249;type=movie;]}
+
+
 # => {[tmdbid= ;type=movie;]}
 # => {[tmdbid= ;type=tv;s=1;]}
